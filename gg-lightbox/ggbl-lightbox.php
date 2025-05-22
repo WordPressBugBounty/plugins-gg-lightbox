@@ -1,12 +1,16 @@
-<?php 
+<?php
 /**
  * Plugin Name: GGBL Lightbox
- * Plugin URI: https://github.com/field2/ggblb_lightbox
+ * Plugin URI: https://wordpress.org/plugins/gg-lightbox/
+ * GitHub Plugin URI: https://github.com/field2/ggbl-lightbox
  * Description: A simple lightbox and slider built specifically for the Gutenberg Gallery block
  * Author: Ben Dunkle
- * Version: 1.2.3
+ * Version: 1.5
  * Author URI: https://bendunkle.com/
- * License: GPL2
+ * Requires at least: 5
+ * Requires PHP: 5.2.4
+ * License:     GPLv2 or later
+ * License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  */
 
 /*
